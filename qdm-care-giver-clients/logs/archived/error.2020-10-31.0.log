@@ -1,0 +1,16 @@
+2020-10-31 07:25:59 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 180
+2020-10-31 07:25:59 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 191
+2020-10-31 07:27:11 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 180
+2020-10-31 07:27:11 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 191
+2020-10-31 07:28:43 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 180
+2020-10-31 07:28:43 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 191
+2020-10-31 07:30:55 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 180
+2020-10-31 07:30:55 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: invalid input syntax for type timestamp: "null"
+  Position: 191

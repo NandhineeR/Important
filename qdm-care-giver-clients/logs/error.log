@@ -1,0 +1,22 @@
+2020-11-22 10:57:40 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 10:58:03 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 11:51:54 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 13:34:33 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 15:41:59 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 15:42:37 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 15:43:47 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 15:59:54 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 16:03:30 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 16:05:17 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25
+2020-11-22 16:06:34 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_actvity" does not exist
+  Position: 25

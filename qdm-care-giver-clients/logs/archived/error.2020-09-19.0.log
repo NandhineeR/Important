@@ -1,0 +1,8 @@
+2020-09-19 17:38:21 [http-nio-8446-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "activity" does not exist
+  Position: 16
+2020-09-19 17:38:21 [http-nio-8446-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "activity" does not exist
+  Position: 16
+2020-09-19 18:53:11 [http-nio-8446-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "activity" does not exist
+  Position: 16
+2020-09-19 18:53:11 [http-nio-8446-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "activity" does not exist
+  Position: 16

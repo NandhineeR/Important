@@ -1,0 +1,10 @@
+2020-11-20 20:30:18 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "tb_subscriptions_pkey"
+  Detail: Key (id)=(2) already exists.
+2020-11-20 20:31:40 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "category_id" does not exist
+  Position: 79
+2020-11-20 20:31:40 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: current transaction is aborted, commands ignored until end of transaction block
+2020-11-20 20:33:04 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "category_id" does not exist
+  Position: 79
+2020-11-20 20:33:04 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: current transaction is aborted, commands ignored until end of transaction block
+2020-11-20 20:39:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: relation "tb_notification_category" does not exist
+  Position: 15

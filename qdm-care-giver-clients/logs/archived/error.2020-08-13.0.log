@@ -1,0 +1,10 @@
+2020-08-13 19:15:57 [http-nio-9999-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column subscripti0_.id does not exist
+  Position: 8
+2020-08-13 19:17:11 [http-nio-9999-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "details_details_id" violates not-null constraint
+  Detail: Failing row contains (1, 101, Subscription1, null).
+2020-08-13 19:17:18 [http-nio-9999-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "details_details_id" violates not-null constraint
+  Detail: Failing row contains (2, 101, Subscription1, null).
+2020-08-13 19:18:04 [http-nio-9999-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "details_details_id" violates not-null constraint
+  Detail: Failing row contains (3, 101, Subscription1, null, null).
+2020-08-13 19:18:39 [http-nio-9999-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "details_details_id" violates not-null constraint
+  Detail: Failing row contains (1, 101, Subscription1, null, null).

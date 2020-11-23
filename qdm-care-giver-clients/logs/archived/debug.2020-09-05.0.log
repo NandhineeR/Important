@@ -1,0 +1,3 @@
+2020-09-05 12:00:31 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-JUID77J with PID 13208 (D:\prodian\QDM\qdm-care-giver-clients\target\classes started by Arul in D:\prodian\QDM\qdm-care-giver-clients)
+2020-09-05 12:00:31 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-05 12:00:31 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev

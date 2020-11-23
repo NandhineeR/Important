@@ -1,0 +1,12 @@
+2020-09-25 07:32:39 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-FIGB9EQ with PID 5352 (C:\prodian\git\qdm-care-giver-clients\target\classes started by Shakeela in C:\prodian\git\qdm-care-giver-clients)
+2020-09-25 07:32:39 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-25 07:32:39 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
+2020-09-25 07:32:44 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Started QdmCareGiverClientsApplication in 5.653 seconds (JVM running for 6.686)
+2020-09-25 07:33:25 [http-nio-8444-exec-2] INFO  c.q.c.c.s.ManageClientService - equipments valuesSample equip
+2020-09-25 07:33:25 [http-nio-8444-exec-2] INFO  c.q.c.c.s.ManageClientService - equipments valuesSample equipment
+2020-09-25 08:11:25 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-FIGB9EQ with PID 5352 (C:\prodian\git\qdm-care-giver-clients\target\classes started by Shakeela in C:\prodian\git\qdm-care-giver-clients)
+2020-09-25 08:11:25 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-25 08:11:25 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
+2020-09-25 19:48:07 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-FIGB9EQ with PID 244 (C:\prodian\git\qdm-care-giver-clients\target\classes started by Shakeela in C:\prodian\git\qdm-care-giver-clients)
+2020-09-25 19:48:07 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-25 19:48:07 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev

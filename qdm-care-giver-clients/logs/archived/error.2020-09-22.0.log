@@ -1,0 +1,486 @@
+2020-09-22 15:28:25 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 15:28:25 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 15:28:25 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 15:48:44 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 15:48:44 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 15:48:44 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:00:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:00:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:00:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:11:18 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:11:18 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:11:18 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:13:55 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:13:55 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:13:55 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:20:09 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:20:09 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:20:09 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:25:25 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:25:25 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:25:25 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:26:28 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:26:28 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:26:28 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:27:50 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:27:50 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:27:50 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:28:14 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:28:14 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:28:14 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:48:01 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:48:01 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 16:48:01 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:12:09 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:12:09 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:12:09 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:19:52 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:19:52 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:19:52 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:24:32 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:24:32 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:24:32 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:37:02 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:37:02 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:37:02 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:48:40 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:48:40 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:48:40 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:51:21 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:51:21 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 17:51:21 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:20 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:20 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:20 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:24 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:24 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:24 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:58 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:58 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:17:58 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:36:33 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:36:33 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:36:33 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:38:53 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:38:53 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:38:53 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:43:01 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:43:01 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:43:01 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:45:15 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:45:15 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:45:15 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:46:03 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:46:03 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:46:03 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:48:36 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:48:36 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:48:36 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:49:19 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:49:19 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:49:19 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:51:25 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:51:25 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 18:51:25 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:02:37 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:02:37 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:02:37 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:03:26 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:03:26 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:03:26 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:07:21 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:07:21 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:07:21 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:10:28 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:10:28 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:10:28 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:11:27 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:11:27 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:11:27 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:12 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:12 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:12 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:25 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:25 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:25 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:29 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:29 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:16:29 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:17:23 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:17:23 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:17:23 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:17:30 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:17:30 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:17:30 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:22:30 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:22:30 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:22:30 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:22:41 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:22:41 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:22:41 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:26:34 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:26:34 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:26:34 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:28:49 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:28:49 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:28:49 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:48:21 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:48:21 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:48:21 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:57:40 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:57:40 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 19:57:40 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 20:24:04 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 20:24:04 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 20:24:04 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 20:55:03 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 20:55:03 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 20:55:03 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:32:27 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:32:27 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:32:27 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:34:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:34:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:34:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:34:41 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:34:41 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:34:41 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:36:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:36:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 21:36:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:04:45 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:04:45 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:04:45 [http-nio-8444-exec-10] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:14:51 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:14:51 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:14:51 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:18:26 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:18:26 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:18:26 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:27:15 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:27:15 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43
+2020-09-22 22:27:15 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "client_id" does not exist
+  Hint: Perhaps you meant to reference the column "activity.clientid".
+  Position: 43

@@ -1,0 +1,1857 @@
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:46:49 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:07 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:47:28 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 10:47:28 [http-nio-8444-exec-9] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 10:48:19 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:21 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:13:33 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:05 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:16 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:36 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:28:36 [http-nio-8444-exec-9] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:28:50 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:30:46 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:31:17 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:35:50 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:09 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:37:36 [http-nio-8444-exec-7] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:37:36 [http-nio-8444-exec-7] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:37:41 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:37:41 [http-nio-8444-exec-5] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:37:52 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:37:52 [http-nio-8444-exec-9] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:37:53 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:37:53 [http-nio-8444-exec-3] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:38 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:41 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:38:41 [http-nio-8444-exec-5] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:38:51 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:26 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:26 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:26 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:26 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:27 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:27 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:27 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:27 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:27 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 15:41:30 [http-nio-8444-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:30 [http-nio-8444-exec-9] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:41:31 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:31 [http-nio-8444-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:41:32 [http-nio-8444-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:32 [http-nio-8444-exec-5] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:41:33 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:33 [http-nio-8444-exec-3] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:41:33 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:33 [http-nio-8444-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:41:36 [http-nio-8444-exec-8] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:36 [http-nio-8444-exec-8] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 15:41:38 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column activity0_.activity_description does not exist
+  Position: 48
+2020-10-03 15:41:38 [http-nio-8444-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/careGiver] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet] with root cause
+org.postgresql.util.PSQLException: ERROR: column activity0_.activity_description does not exist
+  Position: 48
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2532)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2267)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:312)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:448)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:369)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:153)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:103)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2311)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2064)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2026)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:951)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:352)
+	at org.hibernate.loader.Loader.doList(Loader.java:2857)
+	at org.hibernate.loader.Loader.doList(Loader.java:2839)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2671)
+	at org.hibernate.loader.Loader.list(Loader.java:2666)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1412)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$PagedExecution.doExecute(JpaQueryExecution.java:177)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:88)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:154)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:142)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor$QueryMethodInvoker.invoke(QueryExecutorMethodInterceptor.java:195)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:152)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:149)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.findByClientId(Unknown Source)
+	at com.qdm.cg.clients.serviceimpl.ManageClientService.getClientActivity(ManageClientService.java:209)
+	at com.qdm.cg.clients.controller.ManageClientsController.getActivity(ManageClientsController.java:101)
+	at jdk.internal.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:07 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:12 [http-nio-8444-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8
+2020-10-03 19:01:22 [http-nio-8444-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column "fromtimestamp" does not exist
+  Hint: Perhaps you meant to reference the column "activity.from_time_stamp".
+  Position: 8

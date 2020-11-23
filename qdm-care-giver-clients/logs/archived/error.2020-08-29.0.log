@@ -1,0 +1,6 @@
+2020-08-29 15:39:52 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - HikariPool-1 - Connection is not available, request timed out after 30035ms.
+2020-08-29 15:39:52 [http-nio-8444-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - This connection has been closed.
+2020-08-29 16:06:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - HikariPool-1 - Connection is not available, request timed out after 30033ms.
+2020-08-29 16:06:00 [http-nio-8444-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - This connection has been closed.
+2020-08-29 18:01:29 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - HikariPool-1 - Connection is not available, request timed out after 30035ms.
+2020-08-29 18:01:29 [http-nio-8444-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - This connection has been closed.

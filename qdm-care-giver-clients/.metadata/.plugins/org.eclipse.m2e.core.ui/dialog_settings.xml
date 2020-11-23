@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Prodian Regardings\Latest Code\qdm-care-giver-clients"/>
+			<item value="D:\Prodian Regardings\Latest Code\CareGiver-Clients--master\CareGiver-Clients--master\qdm-care-giver-clients"/>
+			<item value="D:\Prodian Regardings\Latest Code\CareSupervisor-UserManagement--master\CareSupervisor-UserManagement--master\qdm-care-supervisor"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

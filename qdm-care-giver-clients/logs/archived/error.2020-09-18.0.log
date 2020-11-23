@@ -1,0 +1,4 @@
+2020-09-18 20:44:35 [http-nio-8446-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "subscriptionid" violates not-null constraint
+  Detail: Failing row contains (1, , null, Product, 1, test, 1001, test, 1001, value, 1, Health care, 1, 2, Sample product).
+2020-09-18 20:46:59 [http-nio-8446-exec-4] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "subscriptionid" violates not-null constraint
+  Detail: Failing row contains (2, check, null, Product, 1, test, 1001, test, 1001, value, 1, Health care, 1, 2, Sample product).

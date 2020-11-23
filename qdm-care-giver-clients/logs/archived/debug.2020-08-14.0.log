@@ -1,0 +1,7 @@
+2020-08-14 12:43:19 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on LAPTOP-GBKRVFU8 with PID 12264 (C:\Users\nandh\git\repository\qdm-care-giver-clients\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-giver-clients)
+2020-08-14 12:43:19 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 12:43:19 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
+2020-08-14 12:45:36 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on LAPTOP-GBKRVFU8 with PID 16040 (C:\Users\nandh\git\repository\qdm-care-giver-clients\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-giver-clients)
+2020-08-14 12:45:36 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 12:45:36 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
+2020-08-14 12:45:37 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Started QdmCareGiverClientsApplication in 1.306 seconds (JVM running for 20.635)

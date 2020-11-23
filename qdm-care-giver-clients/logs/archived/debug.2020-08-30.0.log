@@ -1,0 +1,11 @@
+2020-08-30 13:46:34 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-JUID77J with PID 7140 (D:\prodian\QDM\qdm-care-giver-clients\target\classes started by Arul in D:\prodian\QDM\qdm-care-giver-clients)
+2020-08-30 13:46:34 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-30 13:46:34 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
+2020-08-30 13:46:50 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Started QdmCareGiverClientsApplication in 17.196 seconds (JVM running for 159952.218)
+2020-08-30 13:47:05 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-JUID77J with PID 7140 (D:\prodian\QDM\qdm-care-giver-clients\target\classes started by Arul in D:\prodian\QDM\qdm-care-giver-clients)
+2020-08-30 13:47:05 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-30 13:47:05 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
+2020-08-30 13:47:15 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Started QdmCareGiverClientsApplication in 10.832 seconds (JVM running for 159977.587)
+2020-08-30 13:47:20 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - Starting QdmCareGiverClientsApplication on DESKTOP-JUID77J with PID 7140 (D:\prodian\QDM\qdm-care-giver-clients\target\classes started by Arul in D:\prodian\QDM\qdm-care-giver-clients)
+2020-08-30 13:47:20 [restartedMain] DEBUG c.q.c.QdmCareGiverClientsApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-30 13:47:20 [restartedMain] INFO  c.q.c.QdmCareGiverClientsApplication - The following profiles are active: dev
